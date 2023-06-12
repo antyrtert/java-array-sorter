@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="org.netbeans.modules.profiler.v2.features.ObjectsFeature_SelectedClassesMode_SELECTION_FLAG">int[],*, </entry>
+<entry key="org.netbeans.modules.profiler.v2.features.ObjectsFeature_CustomMethodsMode_LIMIT_ALLOCATIONS_FLAG">10</entry>
+<entry key="org.netbeans.modules.profiler.v2.features.ObjectsFeature_SelectedClassesMode_LIMIT_ALLOCATIONS_FLAG">10</entry>
+<entry key="org.netbeans.modules.profiler.v2.features.MethodsFeature_MODE_FLAG">ProjectClassesMode</entry>
+<entry key="ACTIVATED_FEATURES">#org.netbeans.modules.profiler.v2.features.ObjectsFeature@</entry>
+<entry key="org.netbeans.modules.profiler.v2.features.MethodsFeature_SETTINGS_FLAG">true</entry>
+<entry key="org.netbeans.modules.profiler.v2.features.MonitorFeature_UI_THCL_GRAPH_FLAG">false</entry>
+<entry key="org.netbeans.modules.profiler.v2.features.ObjectsFeature_SETTINGS_FLAG">true</entry>
+<entry key="org.netbeans.modules.profiler.v2.features.ObjectsFeature_MODE_FLAG">SelectedClassesMode</entry>
+</properties>
